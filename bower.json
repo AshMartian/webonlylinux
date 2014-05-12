@@ -1,0 +1,7 @@
+{
+  "name": "Blufish Events",
+  "dependencies": {
+  	"jquery": "~1.9.1",
+  	"bootstrap": "3.0.3"
+  }
+}
